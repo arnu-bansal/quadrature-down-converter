@@ -110,18 +110,6 @@ This project explores several important RF and analog signal processing concepts
 
 ---
 
-## Repository Structure
-
-```text
-quadrature-down-converter/
-│
-├── report/
-│   └── Quadrature_Down_Converter_Report.pdf
-└── README.md
-```
-
----
-
 ## Simulation and Hardware Highlights
 
 - Quadrature oscillator generated stable sinusoidal outputs
